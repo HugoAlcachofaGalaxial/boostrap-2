@@ -45,12 +45,15 @@ div.pruebagratis {
     border-radius: 20px;
     padding-left: 20px;
     border-style: solid;
-    padding-bottom: 20px;
+    padding-bottom: 20px;      
    
 }
 div.card {
     background-color: #c2c2c2;
     border-radius: 20px 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 80px;
 }
 
 div.clearfix {
@@ -58,6 +61,12 @@ div.clearfix {
     border-radius: 20px;
     padding-top: 20px;
     padding-left: 20px;
+    padding: 40px;
+}
+
+div.clearfix img {
+    border: 5px solid black;
+    border-style: groove; 
 }
 main {
     padding: 20px;
